@@ -1,3 +1,5 @@
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="mark/dakiya.svg"><img src="mark/dakiya-dark.svg" width="112" alt="dakiya's mark: an Indian postman in his peaked cap, a letter held up, his mail bag at his side"></picture></p>
+
 # dakiya
 
 A mail-sending service: one HTTP API that every application in an organisation sends mail through.
